@@ -986,10 +986,9 @@ react-native-iphone-x-helper@^1.2.0:
   resolved "https://registry.yarnpkg.com/react-native-iphone-x-helper/-/react-native-iphone-x-helper-1.2.1.tgz#645e2ffbbb49e80844bb4cbbe34a126fda1e6772"
   integrity sha512-/VbpIEp8tSNNHIvstuA3Swx610whci1Zpc9mqNkqn14DkMbw+ORviln2u0XyHG1kPvvwTNGZY6QpeFwxYaSdbQ==
 
-react-native-swipe-gestures@^1.0.2:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/react-native-swipe-gestures/-/react-native-swipe-gestures-1.0.3.tgz#4160f8d459627323f3a3d2770af4bcd82fd054f5"
-  integrity sha512-KOouRzPB2fHFjVombsSdRfYo8SFeNVa4Ho4B5il87DuuF26sPNOtb3je+qaT/xVptedOsCzRPJGbWFMsaBApgg==
+react-native-swipe-gestures@glepur/react-native-swipe-gestures:
+  version "1.0.4"
+  resolved "https://codeload.github.com/glepur/react-native-swipe-gestures/tar.gz/ddc57a9c990757ef9d872e42c17cfbfa85eae5c6"
 
 read-pkg-up@^2.0.0:
   version "2.0.0"
